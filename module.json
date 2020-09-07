@@ -1,68 +1,70 @@
 {
-			"name": "tormenta20-compendium",
-			"title": "Tormenta20 Compendium",
-			"description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-			"author": "V. Kullack",
-			"version": "0.5.0",
-			"minimumCoreVersion": "0.6.0",
-			"compatibleCoreVersion":"0.6.6",
-			"packs": [
-    					{
-      					"name": "poderes-raciais",
-      					"label": "Poderes de Raciais",
-      					"path": "packs/poderes-raciais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "origens",
-      					"label": "Origens",
-      					"path": "packs/origens.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "panteao",
-      					"label": "Panteão",
-      					"path": "packs/panteao.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-						"name": "poderes-classe",
-      					"label": "Poderes de Classe",
-      					"path": "packs/poderes-classe.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-concedidos",
-      					"label": "Poderes Concedidos",
-      					"path": "packs/poderes-concedidos.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-gerais",
-      					"label": "Poderes Gerais",
-      					"path": "packs/poderes-gerais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-raciais",
-      					"label": "Poderes Raciais",
-      					"path": "packs/poderes-raciais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "armas-armaduras",
-      					"label": "Armas & Armaduras",
-      					"path": "packs/armas-armaduras.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						
-					]
-		  }
+  "name": "tormenta20-compendium",
+  "title": "Tormenta20 Compendium",
+  "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
+  "author": "V. Kullack",
+  "version": "0.5.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.6",
+  "packs": [
+    {
+      "name": "poderes-raciais",
+      "label": "Poderes de Raciais",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "origens",
+      "label": "Origens",
+      "path": "packs/origens.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "panteao",
+      "label": "Panteão",
+      "path": "packs/panteao.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "poderes-classe",
+      "label": "Poderes de Classe",
+      "path": "packs/poderes-classe.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "poderes-concedidos",
+      "label": "Poderes Concedidos",
+      "path": "packs/poderes-concedidos.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "poderes-gerais",
+      "label": "Poderes Gerais",
+      "path": "packs/poderes-gerais.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "poderes-raciais",
+      "label": "Poderes Raciais",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    },
+    {
+      "name": "armas-armaduras",
+      "label": "Armas & Armaduras",
+      "path": "packs/armas-armaduras.db",
+      "entity": "Items",
+      "system": "tormenta20"
+    }
+  ],
+  "url": "https://github.com/Kull4ck/tormenta20-compendium",
+  "manifest": "https://github.com/Kull4ck/tormenta20-compendium/blob/master/module.json",
+  "download": "https://github.com/Kull4ck/tormenta20-compendium/archive/master.zip"
+}

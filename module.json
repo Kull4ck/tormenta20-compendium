@@ -2,7 +2,7 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "author": "MateusMarochi",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.6.6",

@@ -22,35 +22,35 @@
       "name": "poderes-raciais",
       "label": "Poderes de Raciais",
       "system": "Tormenta20",
-      "path": "./ppacks/poderes-raciais.db",
+      "path": "./packs/poderes-raciais.db",
       "entity": "Items"
     },
     {
       "name": "origens",
       "label": "Origens",
       "system": "Tormenta20",
-      "path": "./ppacks/origens.db",
+      "path": "./packs/origens.db",
       "entity": "Items"
     },
     {
       "name": "panteao",
       "label": "Panteão",
       "system": "Tormenta20",
-      "path": "./ppacks/panteao.db",
+      "path": "./packs/panteao.db",
       "entity": "Items"
     },
     {
       "name": "poderes-classe",
       "label": "Poderes de Classe",
       "system": "Tormenta20",
-      "path": "./ppacks/poderes-classe.db",
+      "path": "./packs/poderes-classe.db",
       "entity": "Items"
     },
     {
       "name": "poderes-concedidos",
       "label": "Poderes Concedidos",
       "system": "Tormenta20",
-      "path": "./ppacks/poderes-concedidos.db",
+      "path": "./packs/poderes-concedidos.db",
       "entity": "Items"
     },
     {
@@ -64,14 +64,14 @@
       "name": "poderes-raciais",
       "label": "Poderes Raciais",
       "system": "Tormenta20",
-      "path": "./ppacks/poderes-raciais.db",
+      "path": "./packs/poderes-raciais.db",
       "entity": "Items"
     },
     {
       "name": "armas-armaduras",
       "label": "Armas & Armaduras",
       "system": "Tormenta20",
-      "path": "./ppacks/armas-armaduras.db",
+      "path": "./packs/armas-armaduras.db",
       "entity": "Items"
     }
   ],

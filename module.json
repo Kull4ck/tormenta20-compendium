@@ -3,7 +3,18 @@
   "title": "Tormenta20 Compendium",
   "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
   "version": "0.5.1",
-  "author": "MateusMarochi",
+  "authors": [
+    {
+      "name": "V. Kullack",
+      "email": "",
+      "url": "https://github.com/Kull4ck"
+    },
+    {
+      "name": "MateusMarochi",
+      "email": "mateusmarochi@hotmail.com",
+      "url": "https://github.com/MateusMarochi"
+    }
+  ],
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.6.6",
   "packs": [
@@ -11,56 +22,56 @@
       "name": "poderes-raciais",
       "label": "Poderes de Raciais",
       "system": "Tormenta20",
-      "path": "packs/poderes-raciais.db",
+      "path": "./ppacks/poderes-raciais.db",
       "entity": "Items"
     },
     {
       "name": "origens",
       "label": "Origens",
       "system": "Tormenta20",
-      "path": "packs/origens.db",
+      "path": "./ppacks/origens.db",
       "entity": "Items"
     },
     {
       "name": "panteao",
       "label": "Panteão",
       "system": "Tormenta20",
-      "path": "packs/panteao.db",
+      "path": "./ppacks/panteao.db",
       "entity": "Items"
     },
     {
       "name": "poderes-classe",
       "label": "Poderes de Classe",
       "system": "Tormenta20",
-      "path": "packs/poderes-classe.db",
+      "path": "./ppacks/poderes-classe.db",
       "entity": "Items"
     },
     {
       "name": "poderes-concedidos",
       "label": "Poderes Concedidos",
       "system": "Tormenta20",
-      "path": "packs/poderes-concedidos.db",
+      "path": "./ppacks/poderes-concedidos.db",
       "entity": "Items"
     },
     {
       "name": "poderes-gerais",
       "label": "Poderes Gerais",
       "system": "Tormenta20",
-      "path": "packs/poderes-gerais.db",
+      "path": "./packs/poderes-gerais.db",
       "entity": "Items"
     },
     {
       "name": "poderes-raciais",
       "label": "Poderes Raciais",
       "system": "Tormenta20",
-      "path": "packs/poderes-raciais.db",
+      "path": "./ppacks/poderes-raciais.db",
       "entity": "Items"
     },
     {
       "name": "armas-armaduras",
       "label": "Armas & Armaduras",
       "system": "Tormenta20",
-      "path": "packs/armas-armaduras.db",
+      "path": "./ppacks/armas-armaduras.db",
       "entity": "Items"
     }
   ],

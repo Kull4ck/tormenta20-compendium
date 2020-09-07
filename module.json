@@ -21,58 +21,58 @@
     {
       "name": "poderes-raciais",
       "label": "Poderes de Raciais",
-      "system": "Tormenta20",
-      "path": "./packs/poderes-raciais.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Item"
     },
     {
       "name": "origens",
       "label": "Origens",
-      "system": "Tormenta20",
-      "path": "./packs/origens.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/origens.db",
+      "entity": "Item"
     },
     {
       "name": "panteao",
       "label": "Panteão",
-      "system": "Tormenta20",
-      "path": "./packs/panteao.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/panteao.db",
+      "entity": "Item"
     },
     {
       "name": "poderes-classe",
       "label": "Poderes de Classe",
-      "system": "Tormenta20",
-      "path": "./packs/poderes-classe.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/poderes-classe.db",
+      "entity": "Item"
     },
     {
       "name": "poderes-concedidos",
       "label": "Poderes Concedidos",
-      "system": "Tormenta20",
-      "path": "./packs/poderes-concedidos.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/poderes-concedidos.db",
+      "entity": "Item"
     },
     {
       "name": "poderes-gerais",
       "label": "Poderes Gerais",
-      "system": "Tormenta20",
-      "path": "./packs/poderes-gerais.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/poderes-gerais.db",
+      "entity": "Item"
     },
     {
       "name": "poderes-raciais",
       "label": "Poderes Raciais",
-      "system": "Tormenta20",
-      "path": "./packs/poderes-raciais.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Item"
     },
     {
       "name": "armas-armaduras",
       "label": "Armas & Armaduras",
-      "system": "Tormenta20",
-      "path": "./packs/armas-armaduras.db",
-      "entity": "Items"
+      "system": "tormenta20",
+      "path": "packs/armas-armaduras.db",
+      "entity": "Item"
     }
   ],
   "url": "https://github.com/MateusMarochi/tormenta20-compendium",

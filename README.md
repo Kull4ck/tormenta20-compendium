@@ -1,2 +1,4 @@
 # tormenta20-compendium
-Um compendium de informações sobre o sistema T20
+Um compendium de informações sobre o sistema T20 no Foundry VTT
+
+## >>> EM CONSTRUÇÃO <<<

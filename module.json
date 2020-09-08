@@ -1,68 +1,81 @@
 {
-			"name": "tormenta20-compendium",
-			"title": "Tormenta20 Compendium",
-			"description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-			"author": "V. Kullack",
-			"version": "0.5.0",
-			"minimumCoreVersion": "0.6.0",
-			"compatibleCoreVersion":"0.6.6",
-			"packs": [
-    					{
-      					"name": "poderes-raciais",
-      					"label": "Poderes de Raciais",
-      					"path": "packs/poderes-raciais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "origens",
-      					"label": "Origens",
-      					"path": "packs/origens.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "panteao",
-      					"label": "Panteão",
-      					"path": "packs/panteao.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-						"name": "poderes-classe",
-      					"label": "Poderes de Classe",
-      					"path": "packs/poderes-classe.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-concedidos",
-      					"label": "Poderes Concedidos",
-      					"path": "packs/poderes-concedidos.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-gerais",
-      					"label": "Poderes Gerais",
-      					"path": "packs/poderes-gerais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "poderes-raciais",
-      					"label": "Poderes Raciais",
-      					"path": "packs/poderes-raciais.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						{
-      					"name": "armas-armaduras",
-      					"label": "Armas & Armaduras",
-      					"path": "packs/armas-armaduras.db",
-      					"entity": "Items",
-						"system": "tormenta20"
-						}
-						
-					]
-		  }
+  "name": "tormenta20-compendium",
+  "title": "Tormenta20 Compendium",
+  "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
+  "version": "0.5.1",
+  "authors": [
+    {
+      "name": "V. Kullack",
+      "email": "",
+      "url": "https://github.com/Kull4ck"
+    },
+    {
+      "name": "MateusMarochi",
+      "email": "mateusmarochi@hotmail.com",
+      "url": "https://github.com/MateusMarochi"
+    }
+  ],
+  "minimumCoreVersion": "0.6.6",
+  "compatibleCoreVersion": "0.6.6",
+  "packs": [
+    {
+      "name": "poderes-raciais",
+      "label": "Poderes de Raciais",
+      "system": "tormenta20",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Item"
+    },
+    {
+      "name": "origens",
+      "label": "Origens",
+      "system": "tormenta20",
+      "path": "packs/origens.db",
+      "entity": "Item"
+    },
+    {
+      "name": "panteao",
+      "label": "Panteão",
+      "system": "tormenta20",
+      "path": "packs/panteao.db",
+      "entity": "Item"
+    },
+    {
+      "name": "poderes-classe",
+      "label": "Poderes de Classe",
+      "system": "tormenta20",
+      "path": "packs/poderes-classe.db",
+      "entity": "Item"
+    },
+    {
+      "name": "poderes-concedidos",
+      "label": "Poderes Concedidos",
+      "system": "tormenta20",
+      "path": "packs/poderes-concedidos.db",
+      "entity": "Item"
+    },
+    {
+      "name": "poderes-gerais",
+      "label": "Poderes Gerais",
+      "system": "tormenta20",
+      "path": "packs/poderes-gerais.db",
+      "entity": "Item"
+    },
+    {
+      "name": "poderes-raciais",
+      "label": "Poderes Raciais",
+      "system": "tormenta20",
+      "path": "packs/poderes-raciais.db",
+      "entity": "Item"
+    },
+    {
+      "name": "armas-armaduras",
+      "label": "Armas & Armaduras",
+      "system": "tormenta20",
+      "path": "packs/armas-armaduras.db",
+      "entity": "Item"
+    }
+  ],
+  "url": "https://github.com/MateusMarochi/tormenta20-compendium",
+  "manifest": "https://github.com/MateusMarochi/tormenta20-compendium/blob/master/module.json",
+  "download": "https://github.com/MateusMarochi/tormenta20-compendium/archive/0.5.1.zip"
+}

@@ -38,7 +38,7 @@
       "label": "Panteão",
       "system": "tormenta20",
       "path": "packs/panteao.db",
-      "entity": "Item"
+      "entity": "JournalEntry"
     },
     {
       "name": "poderes-classe",

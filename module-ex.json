@@ -1,0 +1,73 @@
+{
+  "name": "SupersHomebrewPack",
+  "title": "Super's Homebrew Compendium",
+  "description": "A module that adds additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it! Works even better when paired with Magic Items, Better Rolls and Dynamic Effects modules!",
+  "author": "SuperNar3k",
+  "version": "2.12.0",
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.6.5",
+  "url": "https://github.com/SuperNar3k/foundry/tree/master/SupersHomebrewPack",
+  "download": "https://github.com/SuperNar3k/foundry/archive/master.zip",
+  "system": "dnd5e",
+  "manifest": "https://raw.githubusercontent.com/SuperNar3k/foundry/master/SupersHomebrewPack/module.json",
+  "readme": "https://github.com/SuperNar3k/foundry/blob/master/README.md",
+  "changelog": "https://github.com/SuperNar3k/foundry/blob/master/CHANGELOG.md",
+  "packs": [
+    {
+      "name": "items",
+      "label": "Items",
+      "system": "dnd5e",
+      "path": "packs/items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "system": "dnd5e",
+      "path": "packs/spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tables",
+      "label": "Tables",
+      "system": "dnd5e",
+      "path": "packs/tables.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "conditions",
+      "label": "Conditions",
+      "system": "dnd5e",
+      "path": "packs/conditions.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "system": "dnd5e",
+      "path": "packs/feats.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "system": "dnd5e",
+      "path": "packs/classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-features",
+      "label": "Class Features",
+      "system": "dnd5e",
+      "path": "packs/class-features.db",
+      "entity": "Item"
+    },
+    {
+      "name": "races",
+      "label": "Races",
+      "system": "dnd5e",
+      "path": "packs/races.db",
+      "entity": "Item"
+    }
+  ]
+}

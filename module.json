@@ -2,7 +2,8 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-  "version": "0.5.1",
+  "version": "0.5.2",
+  "author": "V. Kullack",
   "authors": [
     {
       "name": "V. Kullack",

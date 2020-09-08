@@ -1,4 +1,4 @@
-[]("https://tormentarpg.com.br/wp-content/uploads/2020/05/Logo-Tormenta20.png")
+![T20](https://tormentarpg.com.br/wp-content/uploads/2020/05/Logo-Tormenta20.png)
 
 # Tormenta20 Compendium
 

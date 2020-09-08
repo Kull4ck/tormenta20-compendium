@@ -75,7 +75,7 @@
       "entity": "Item"
     }
   ],
-  "url": "https://github.com/MateusMarochi/tormenta20-compendium",
-  "manifest": "https://github.com/MateusMarochi/tormenta20-compendium/blob/master/module.json",
-  "download": "https://github.com/MateusMarochi/tormenta20-compendium/archive/0.5.1.zip"
+  "url": "https://github.com/Kull4ck/tormenta20-compendium",
+  "manifest": "https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.json",
+  "download": "https://github.com/Kull4ck/tormenta20-compendium/archive/master.zip"
 }

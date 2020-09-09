@@ -1,6 +1,6 @@
 # Tormenta20 Compendium
 
-Um compendium de informações sobre o sistema T20 para o Foundry VTT.
+Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.
 
 # Instalação
 

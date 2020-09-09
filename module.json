@@ -2,7 +2,9 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-  "version": "0.5.1",
+  "version": "0.5.5",
+  "author": "V. Kullack",
+
   "authors": [
     {
       "name": "V. Kullack",
@@ -37,7 +39,7 @@
       "label": "Panteão",
       "system": "tormenta20",
       "path": "packs/panteao.db",
-      "entity": "Item"
+      "entity": "JournalEntry"
     },
     {
       "name": "poderes-classe",
@@ -68,14 +70,14 @@
       "entity": "Item"
     },
     {
-      "name": "armas-armaduras",
-      "label": "Armas & Armaduras",
+      "name": "equipamentos",
+      "label": "Equipamentos",
       "system": "tormenta20",
-      "path": "packs/armas-armaduras.db",
+      "path": "packs/equipamentos.db",
       "entity": "Item"
     }
   ],
-  "url": "https://github.com/MateusMarochi/tormenta20-compendium",
-  "manifest": "https://github.com/MateusMarochi/tormenta20-compendium/blob/master/module.json",
-  "download": "https://github.com/MateusMarochi/tormenta20-compendium/archive/0.5.1.zip"
+  "url": "https://github.com/Kull4ck/tormenta20-compendium",
+  "manifest": "https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.json",
+  "download": "https://github.com/Kull4ck/tormenta20-compendium/archive/master.zip"
 }

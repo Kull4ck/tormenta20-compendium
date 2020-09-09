@@ -2,7 +2,7 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um Compendium com dados de itens, poderes, lore, em construção.",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "author": "V. Kullack",
   "authors": [
     {
@@ -69,10 +69,10 @@
       "entity": "Item"
     },
     {
-      "name": "armas-armaduras",
-      "label": "Armas & Armaduras",
+      "name": "equipamentos",
+      "label": "Equipamentos",
       "system": "tormenta20",
-      "path": "packs/armas-armaduras.db",
+      "path": "packs/equipamentos.db",
       "entity": "Item"
     }
   ],

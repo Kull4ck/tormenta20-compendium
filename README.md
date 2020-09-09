@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 ---
 
-![T20](https://tormentarpg.com.br/wp-content/uploads/2020/05/Logo-Tormenta20.png)
-
 ## Conteúdo do Compendium
 
 - [x] Panteão

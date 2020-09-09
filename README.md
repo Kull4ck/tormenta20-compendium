@@ -11,10 +11,14 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 ![T20](https://tormentarpg.com.br/wp-content/uploads/2020/05/Logo-Tormenta20.png)
 
-- Itens básicos
-- Magias
-- Tabelas
-- Condições
-- Poderes
-- Classes
-- Raças
+## Conteúdo do Compendium
+- [x] Panteão
+- [x] Armas
+- [ ] Armaduras
+- [x] Poderes raciais
+- [x] Poderes Gerais
+    - [x] Combate
+    - [x] Destino
+    - [x] Tormenta
+- [x] Poderes Concedidos
+- [x] Poderes de Origem

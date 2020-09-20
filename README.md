@@ -11,6 +11,13 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 ---
 
+# Como Usar?
+
+### Manual
+
+Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes e monstros (futuramente!).
+Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tudo é preenchido automaticamente!
+
 ## Conteúdo do Compendium
 
 - [x] Panteão
@@ -24,6 +31,9 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
   - [x] Tormenta
 - [x] Poderes Concedidos
 - [x] Poderes de Origem
+- [ ] Monstros
 - [ ] Magias
+- [ ] Atualizar textos para a V1.1 do Sistema T20. (Muitos estão com erros por terem seito feitos na V1.0)
+
 
 Mais ideias do que adicionar? Envie sugestões!

@@ -74,6 +74,13 @@
       "system": "tormenta20",
       "path": "packs/equipamentos.db",
       "entity": "Item"
+    },
+    {
+      "name": "ameacas",
+      "label": "Ameaças",
+      "system": "tormenta20",
+      "path": "packs/ameacas.db",
+      "entity": "Actor"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

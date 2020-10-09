@@ -31,7 +31,7 @@ Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tu
   - [x] Tormenta
 - [x] Poderes Concedidos
 - [x] Poderes de Origem
-- [ ] Monstros
+- [x] Monstros
 - [ ] Magias
 - [ ] Atualizar textos para a V1.1 do Sistema T20. (Muitos estão com erros por terem seito feitos na V1.0)
 

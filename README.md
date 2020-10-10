@@ -42,5 +42,8 @@ Mais ideias do que adicionar? Envie sugestões!
 
 Muito obrigado para quem nos ajudou a criar esse módulo!
 
+- Victor Kullack
+- Mateus Marochi Olenik
 - André Oliveira
 - Carlos T. Grillo
+- Tiago Soares

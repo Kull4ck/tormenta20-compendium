@@ -2,8 +2,8 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.",
-  "version": "0.7",
-  "author": "V. Kullack, M. Marochi",
+  "version": "0.7.1",
+  "author": "V. Kullack, M. Marochi, TheTruePortal",
   "authors": [
     {
       "name": "V. Kullack",
@@ -14,6 +14,11 @@
       "name": "MateusMarochi",
       "email": "mateusmarochi@hotmail.com",
       "url": "https://github.com/MateusMarochi"
+    },
+    {
+      "name": "TheTruePortal",
+      "email": "the.true.portal@gmail.com",
+      "url": "https://github.com/TheTruePortal"
     }
   ],
   "minimumCoreVersion": "0.6.6",
@@ -73,6 +78,13 @@
       "label": "Equipamentos",
       "system": "tormenta20",
       "path": "packs/equipamentos.db",
+      "entity": "Item"
+    },
+    {
+      "name": "magias",
+      "label": "Magias",
+      "system": "tormenta20",
+      "path": "packs/magias.db",
       "entity": "Item"
     },
     {

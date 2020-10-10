@@ -1,6 +1,11 @@
 # Tormenta20 Compendium
 
-Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.
+Tormenta20 Compendium é um compendium (óbvio) não oficial de informações sobre o sistema T20 para o Foundry VTT.
+
+Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes, magias e monstros.
+Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tudo é preenchido automaticamente!
+
+---
 
 # Instalação
 
@@ -14,11 +19,6 @@ Você pode adicionar o módulo manualmente na aba de "Add-on Modules" no Foundry
 https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.json
 
 ---
-
-# Como Usar?
-
-Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes, magias e monstros.
-Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tudo é preenchido automaticamente!
 
 ## Conteúdo do Compendium
 
@@ -40,7 +40,7 @@ Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tu
 
 Mais ideias do que adicionar? Envie sugestões!
 
-
+---
 
 Muito obrigado para quem nos ajudou a criar esse módulo!
 

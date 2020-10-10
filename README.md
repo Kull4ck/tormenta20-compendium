@@ -4,6 +4,10 @@ Um compendium não oficial de informações sobre o sistema T20 para o Foundry V
 
 # Instalação
 
+### Automática
+
+Nosso módulo está disponível no repositório oficial do Foundry VTT, basta ir até a aba "Add-on Modules", clicar em "Install Module" e procurar por "tormenta20-compendium".
+
 ### Manual
 
 Você pode adicionar o módulo manualmente na aba de "Add-on Modules" no Foundry VTT utilizando a seguinte URL:
@@ -13,9 +17,7 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 # Como Usar?
 
-### Manual
-
-Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes e monstros (futuramente!).
+Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes, magias e monstros.
 Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tudo é preenchido automaticamente!
 
 ## Conteúdo do Compendium

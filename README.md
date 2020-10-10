@@ -37,3 +37,10 @@ Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tu
 
 
 Mais ideias do que adicionar? Envie sugestões!
+
+
+
+Muito obrigado para quem nos ajudou a criar esse módulo!
+
+- André Oliveira
+- Carlos T. Grillo

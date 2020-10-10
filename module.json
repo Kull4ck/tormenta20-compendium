@@ -2,7 +2,7 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.",
-  "version": "0.6.2.0",
+  "version": "0.7.1",
   "author": "V. Kullack, M. Marochi, TheTruePortal",
   "authors": [
     {
@@ -86,6 +86,13 @@
       "system": "tormenta20",
       "path": "packs/magias.db",
       "entity": "Item"
+    },
+    {
+      "name": "ameacas",
+      "label": "Ameaças",
+      "system": "tormenta20",
+      "path": "packs/ameacas.db",
+      "entity": "Actor"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

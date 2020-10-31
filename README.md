@@ -15,8 +15,7 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 ### Manual
 
-Ele adiciona várias "Bibliotecas" de informações que auxiliam na criação de PJ e auxiliam o mestre com demais itens, poderes e monstros (futuramente!).
-Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tudo é preenchido automaticamente!
+O Tormenta20 Compendium adiciona bibliotecas de informações, sobre poderes, raças, classes, monstros, magias, tudo com um simples grab'n'drop podendo arrastar tudo para uma ficha de personagem ou de ameaça, fácilitando a criação!
 
 ## Conteúdo do Compendium
 
@@ -33,7 +32,9 @@ Apenas precisa acessar essas bibliotecas e arrasta-las para as fixas, que dai tu
 - [x] Poderes de Origem
 - [x] Magias
 - [x] Monstros
-- [ ] Atualizar textos para a V1.1 do Sistema T20. (Muitos estão com erros por terem seito feitos na V1.0)
+- [x] Atualizar Ícones.
+- [ ] Atualizar textos para a V1.1 do Sistema T20.
+- [ ]  Bugs, bugs para todo lado.......
 
 
-Mais ideias do que adicionar? Envie sugestões!
+Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para corrigirmos!

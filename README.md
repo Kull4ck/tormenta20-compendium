@@ -33,7 +33,8 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, sobre poderes, ra
 - [x] Magias
 - [x] Monstros
 - [x] Atualizar Ícones.
-- [ ] Atualizar textos para a V1.1 do Sistema T20. (Muitos estão com erros por terem seito feitos na V1.0)
+- [ ] Atualizar textos para a V1.1 do Sistema T20.
+- [ ]  Bugs, bugs para todo lado.......
 
 
 Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para corrigirmos!

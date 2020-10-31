@@ -25,17 +25,10 @@
   "compatibleCoreVersion": "0.6.6",
   "packs": [
     {
-      "name": "poderes-raciais",
-      "label": "Poderes de Raciais",
+      "name": "poderes",
+      "label": "Poderes",
       "system": "tormenta20",
-      "path": "packs/poderes-raciais.db",
-      "entity": "Item"
-    },
-    {
-      "name": "origens",
-      "label": "Origens",
-      "system": "tormenta20",
-      "path": "packs/origens.db",
+      "path": "packs/poderes.db",
       "entity": "Item"
     },
     {
@@ -44,34 +37,6 @@
       "system": "tormenta20",
       "path": "packs/panteao.db",
       "entity": "JournalEntry"
-    },
-    {
-      "name": "poderes-classe",
-      "label": "Poderes de Classe",
-      "system": "tormenta20",
-      "path": "packs/poderes-classe.db",
-      "entity": "Item"
-    },
-    {
-      "name": "poderes-concedidos",
-      "label": "Poderes Concedidos",
-      "system": "tormenta20",
-      "path": "packs/poderes-concedidos.db",
-      "entity": "Item"
-    },
-    {
-      "name": "poderes-gerais",
-      "label": "Poderes Gerais",
-      "system": "tormenta20",
-      "path": "packs/poderes-gerais.db",
-      "entity": "Item"
-    },
-    {
-      "name": "poderes-raciais",
-      "label": "Poderes Raciais",
-      "system": "tormenta20",
-      "path": "packs/poderes-raciais.db",
-      "entity": "Item"
     },
     {
       "name": "equipamentos",

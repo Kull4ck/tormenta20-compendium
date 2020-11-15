@@ -34,6 +34,7 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, sobre poderes, ra
 - [x] Monstros
 - [x] Atualizar Ícones.
 - [ ] Atualizar textos para a V1.1 do Sistema T20.
+  - [x] 0.7.8 -> Correção de Ícones, txt de Itens e Armas para v1.1.
 - [ ]  Bugs, bugs para todo lado.......
 
 

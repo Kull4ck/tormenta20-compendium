@@ -37,6 +37,7 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, sobre poderes, ra
   - [x] 0.7.8 -> Correção de Ícones, txt de Itens e Armas para v1.1.
   - [x] 0.7.9 -> Correção de Poderes Gerais para v1.1.
 - [x] 0.8 Jornada Heroica PT 1 e 2!
+- [x] 0.9 Aprimoramentos de Magias
 - [ ]  Bugs, bugs para todo lado.......
 
 

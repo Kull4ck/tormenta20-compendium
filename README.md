@@ -60,4 +60,3 @@ Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue pa
 - Sapodinho#0859 (Condições)
 - Andre Oliveira (Ameaças)
 - Carlos T. Grillo (Ameaças)
-- Tiago Soares (Ameaças)

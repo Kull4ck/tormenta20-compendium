@@ -59,5 +59,7 @@ Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue pa
 - ThePortal#4102 (Magias & Aprimoramentos)
 - Andre Oliveira (Ameaças)
 - Carlos T. Grillo (Ameaças)
+- mclemente (Correções)
 - Sapodinho#0859 (Condições)
+
 

@@ -40,6 +40,7 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, relacionado ao VT
 - [x] 0.8 Jornada Heroica PT 1 e 2!
 - [x] 0.9 Aprimoramentos de Magias
 - [ ] Jornada Heroica PT 3 e 4!
+- [ ] Ameaças Dragão Brasil
 - [ ] Correção de todos os ataques das ameaças.
 - [ ] Tabelas
 - [ ]  Bugs, bugs para todo lado.......

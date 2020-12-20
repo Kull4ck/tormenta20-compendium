@@ -19,30 +19,32 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, relacionado ao VT
 
 ## Conteúdo do Compendium
 
-- [x] Panteão
-- [x] Armas
-- [x] Armaduras
-- [x] Itens
-- [x] Poderes raciais
-- [x] Poderes Gerais
-  - [x] Combate
-  - [x] Destino
-  - [x] Tormenta
-- [x] Poderes Concedidos
-- [x] Poderes de Origem
-- [x] Magias
-- [x] Monstros
+- [x] Armas.
+- [x] Armaduras.
+- [x] Itens.
+- [x] Poderes raciais.
+- [x] Poderes Gerais.
+  - [x] Combate.
+  - [x] Destino.
+  - [x] Tormenta.
+- [x] Poderes Concedidos.
+- [x] Poderes de Origem.
+- [x] Magias.
+- [x] Monstros.
 - [x] Atualizar Ícones.
 - [ ] Atualizar textos para a V1.1 do Sistema T20.
   - [x] 0.7.8 -> Correção de Ícones, txt de Itens e Armas para v1.1.
   - [x] 0.7.9 -> Correção de Poderes Gerais para v1.1.
   - [x] 1.0 -> Correção de todos os textos para a v1.1 e removido todos os espaços duplos. 
 - [x] 0.8 Jornada Heroica PT 1 e 2!
-- [x] 0.9 Aprimoramentos de Magias
+- [x] 0.9 Aprimoramentos de Magias.
+- [x] 1.0 Itens Mágicos.
+- [x] 1.0 Removido a Classe Inventor até segunda ordem. :(
+- [x] 1.0 Removido citações a nomes próprios do Panteão até segunda ordem. :(
 - [ ] Jornada Heroica PT 3 e 4!
-- [ ] Ameaças Dragão Brasil
+- [ ] Ameaças Dragão Brasil.
 - [ ] Correção de todos os ataques das ameaças.
-- [ ] Tabelas
+- [ ] Tabelas.
 - [ ]  Bugs, bugs para todo lado.......
 
 

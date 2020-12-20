@@ -49,3 +49,14 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, relacionado ao VT
 
 
 Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para corrigirmos!
+
+
+
+### Agradecimentos!
+
+- Vizael#0570
+- Marochi#1635
+- ThePortal#4102
+- Andre Oliveira
+- Carlos T. Grillo
+- Tiago Soares

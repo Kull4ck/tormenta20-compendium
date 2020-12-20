@@ -36,8 +36,12 @@ O Tormenta20 Compendium adiciona bibliotecas de informações, relacionado ao VT
 - [ ] Atualizar textos para a V1.1 do Sistema T20.
   - [x] 0.7.8 -> Correção de Ícones, txt de Itens e Armas para v1.1.
   - [x] 0.7.9 -> Correção de Poderes Gerais para v1.1.
+  - [x] 1.0 -> Correção de todos os textos para a v1.1 e removido todos os espaços duplos. 
 - [x] 0.8 Jornada Heroica PT 1 e 2!
 - [x] 0.9 Aprimoramentos de Magias
+- [ ] Jornada Heroica PT 3 e 4!
+- [ ] Correção de todos os ataques das ameaças.
+- [ ] Tabelas
 - [ ]  Bugs, bugs para todo lado.......
 
 

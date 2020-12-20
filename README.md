@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 
 ### Manual
 
-O Tormenta20 Compendium adiciona bibliotecas de informações, sobre poderes, raças, classes, monstros, magias, tudo com um simples grab'n'drop podendo arrastar tudo para uma ficha de personagem ou de ameaça, fácilitando a criação!
+O Tormenta20 Compendium adiciona bibliotecas de informações, relacionado ao VTT, FoundryVTT, usando o Sistema Tormenta20, RPG de mesa nacional da Jambô Editora, adiciona poderes, raças, classes, ameaças, magias, tudo com um simples grab'n'drop podendo arrastar tudo para uma ficha de personagem no FoundryVTT.
 
 ## Conteúdo do Compendium
 

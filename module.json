@@ -2,8 +2,8 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.",
-  "version": "0.8.1",
-  "author": "V. Kullack, M. Marochi, TheTruePortal",
+  "version": "0.9.2",
+  "author": "V. Kullack, M. Marochi, TheTruePortal, mclemente",
   "authors": [
     {
       "name": "V. Kullack",
@@ -22,7 +22,7 @@
     }
   ],
   "minimumCoreVersion": "0.6.6",
-  "compatibleCoreVersion": "0.7.7",
+  "compatibleCoreVersion": "0.7.9",
   "packs": [
     {
       "name": "poderes",
@@ -51,6 +51,13 @@
       "system": "tormenta20",
       "path": "packs/ameacas.db",
       "entity": "Actor"
+    },
+    {
+      "name": "condicoes",
+      "label": "Condições",
+      "system": "tormenta20",
+      "path": "packs/condicoes.db",
+      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

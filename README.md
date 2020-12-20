@@ -57,6 +57,7 @@ Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue pa
 - Marochi#1635 (Classes / Raças)
 - Biel#3421 (Classes / Raças)
 - ThePortal#4102 (Magias)
-- Sapodinho#0859 (Condições)
 - Andre Oliveira (Ameaças)
 - Carlos T. Grillo (Ameaças)
+- Sapodinho#0859 (Condições)
+

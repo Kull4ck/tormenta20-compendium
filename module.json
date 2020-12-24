@@ -2,11 +2,7 @@
   "name": "tormenta20-compendium",
   "title": "Tormenta20 Compendium",
   "description": "Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.",
-<<<<<<< HEAD
   "version": "1.1.2",
-=======
-  "version": "1.11",
->>>>>>> 7b69ad8398a3ef995eb06830ca15ffc5c58f6950
   "author": "V. Kullack, M. Marochi, TheTruePortal, mclemente",
   "authors": [
     {

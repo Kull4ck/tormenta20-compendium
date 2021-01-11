@@ -1,3 +1,5 @@
+# ESSE COMPENDIUM FOI DESCONTINUADO, PELO MENOS, POR ENQUANTO... NOVIDADES EM BREVE. 
+
 # Tormenta20 Compendium
 
 Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.

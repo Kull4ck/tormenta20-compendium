@@ -1,11 +1,11 @@
 {
-  "name": "tormenta20-compendium",
-  "title": "Tormenta20 Compendium",
-  "description": "Um compendium não oficial de informações sobre o sistema T20 para o Foundry VTT.",
-  "version": "1.1.2",
-  "author": "V. Kullack, M. Marochi, TheTruePortal, mclemente",
+  "name": "compendium-extra-t20",
+  "title": "Compendium Extra T20",
+  "description": "Um compendium extra, com mais conteúdo para Tormenta20!",
+  "version": "1.0.0",
+  "author": "MateusMarochi; V. Kull4ck",
   "authors": [
-    {
+     {
       "name": "V. Kullack",
       "email": "victor.gui.kullack@gmail.com",
       "url": "https://github.com/Kull4ck"
@@ -14,50 +14,17 @@
       "name": "MateusMarochi",
       "email": "mateusmarochi@hotmail.com",
       "url": "https://github.com/MateusMarochi"
-    },
-    {
-      "name": "TheTruePortal",
-      "email": "the.true.portal@gmail.com",
-      "url": "https://github.com/TheTruePortal"
     }
   ],
-  "minimumCoreVersion": "0.6.6",
+  "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "packs": [
     {
-      "name": "poderes",
-      "label": "Poderes",
+      "name": "guia-de-npcs",
+      "label": "Guia de NPCs",
       "system": "tormenta20",
-      "path": "packs/poderes.db",
-      "entity": "Item"
-    },
-    {
-      "name": "equipamentos",
-      "label": "Equipamentos",
-      "system": "tormenta20",
-      "path": "packs/equipamentos.db",
-      "entity": "Item"
-    },
-    {
-      "name": "magias",
-      "label": "Magias",
-      "system": "tormenta20",
-      "path": "packs/magias.db",
-      "entity": "Item"
-    },
-    {
-      "name": "ameacas",
-      "label": "Ameaças",
-      "system": "tormenta20",
-      "path": "packs/ameacas.db",
+      "path": "packs/guia-de-npcs.db",
       "entity": "Actor"
-    },
-    {
-      "name": "condicoes",
-      "label": "Condições",
-      "system": "tormenta20",
-      "path": "packs/condicoes.db",
-      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

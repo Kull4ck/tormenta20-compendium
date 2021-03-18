@@ -1,7 +1,7 @@
 #
 # Compendium Extra T20
 
-Um compendium extra não oficial de conteúdo extra para o sistema T20 para o Foundry VTT.
+Um compendium extra não oficial de conteúdo extra para o sistema T20 no Foundry VTT.
 
 # Instalação
 

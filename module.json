@@ -2,7 +2,7 @@
   "name": "compendium-extra-t20",
   "title": "Compendium Extra T20",
   "description": "Um compendium extra, com mais conteúdo para Tormenta20!",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "author": "MateusMarochi; V. Kull4ck",
   "authors": [
      {
@@ -24,6 +24,13 @@
       "label": "Guia de NPCs",
       "system": "tormenta20",
       "path": "packs/guia-de-npcs.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "jornada-heroica",
+      "label": "Jornada Heroica",
+      "system": "tormenta20",
+      "path": "packs/jornada-heroica.db",
       "entity": "Actor"
     }
   ],

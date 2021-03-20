@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.js
 Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para corrigirmos!
 
 
-#Atribuições
+# Atribuições
 
 Icons made by 2-Minute Tabletop; https://www.patreon.com/2minutetabletop
 

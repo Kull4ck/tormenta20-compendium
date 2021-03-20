@@ -25,4 +25,5 @@ Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue pa
 #Atribuições
 
 Icons made by 2-Minute Tabletop; https://www.patreon.com/2minutetabletop
+
 Icons made by Forgotten Adventures https://www.patreon.com/forgottenadventures

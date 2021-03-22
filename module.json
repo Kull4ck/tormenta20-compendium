@@ -2,7 +2,7 @@
   "name": "compendium-extra-t20",
   "title": "Compendium Extra T20",
   "description": "Um compendium extra, com mais conteúdo para Tormenta20!",
-  "version": "2.1.2",
+  "version": "2.5.2",
   "author": "MateusMarochi; V. Kull4ck",
   "authors": [
      {
@@ -32,6 +32,13 @@
       "system": "tormenta20",
       "path": "packs/jornada-heroica.db",
       "entity": "Actor"
+    },
+    {
+      "label": "Dragão Brasil",
+      "entity": "Actor",
+      "name": "dragao-brasil",
+      "path": "packs/dragao-brasil.db",
+      "system": "tormenta20"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

@@ -2,7 +2,7 @@
   "name": "compendium-extra-t20",
   "title": "Compendium Extra T20",
   "description": "Um compendium extra, com mais conteúdo para Tormenta20!",
-  "version": "2.5.4",
+  "version": "2.6.0",
   "author": "MateusMarochi; V. Kull4ck",
   "authors": [
      {
@@ -39,6 +39,20 @@
       "name": "dragao-brasil",
       "path": "packs/dragao-brasil.db",
       "system": "tormenta20"
+    },
+    {
+      "name": "equipamentos-extra",
+      "label": "Equipamentos-extra",
+      "system": "tormenta20",
+      "path": "packs/equipamentos-extra.db",
+      "entity": "Item"
+    },
+    {
+      "name": "poderes-extra",
+      "label": "Poderes-extra",
+      "system": "tormenta20",
+      "path": "packs/poderes-extra.db",
+      "entity": "Item"
     }
   ],
   "url": "https://github.com/Kull4ck/tormenta20-compendium",

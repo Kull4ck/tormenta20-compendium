@@ -2,7 +2,7 @@
   "name": "compendium-extra-t20",
   "title": "Compendium Extra T20",
   "description": "Um compendium extra, com mais conteúdo para Tormenta20!",
-  "version": "2.6.3",
+  "version": "2.7.0",
   "author": "MateusMarochi; V. Kull4ck",
   "authors": [
      {
@@ -16,8 +16,8 @@
       "url": "https://github.com/MateusMarochi"
     }
   ],
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
   "packs": [
     {
       "name": "guia-de-npcs",

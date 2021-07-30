@@ -10,4 +10,4 @@ Um compendium extra não oficial de conteúdo extra para o sistema T20 no Foundr
 Você pode adicionar o módulo manualmente na aba de "Add-on Modules" no Foundry VTT utilizando a seguinte URL:
 https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.json
 
-Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para corrigirmos!
+Mais ideias do que adicionar? Envie sugestões! Achou Erros?! Mande uma Issue para eu corrigir!
